@@ -1,0 +1,17 @@
+{
+  "name": "oasis-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0-beta.64"
+  },
+  "dependencies": {
+    "oasis-engine": "^0.6.0",
+    "@oasis-engine/controls": "^0.6.0",
+    "@yangfengzzz/physics-physx-debug": "0.6.16"
+  }
+}
